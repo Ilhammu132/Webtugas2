@@ -1,0 +1,199 @@
+*{
+    margin: 0px;
+}
+.kelas1{
+    background-color: #1474ae;
+}
+.kelas2{
+    width: 150px;
+}
+.kelas3{
+    color: white;
+    font-size: 18px; 
+    display: flex;
+    width: 20%;
+    justify-content: space-around;
+    font-weight: bolder;
+}
+
+nav{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    width: 90%;
+    padding: 20px 0;
+}
+
+.kelas4{
+    display: flex;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kelas9{
+    width: 500px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.kelas5{
+   width: 50%; 
+}
+
+.kelas7{
+    margin: 20px;
+    margin-left: 0;
+    font-size: 18px;
+}
+
+.kelas6{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.kelas10{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-evenly;
+    width: 80%;
+    height: 500px;
+}
+.kelas11{
+    margin: 0px auto;
+    font-size: 36px;
+    font-weight: bolder;
+}
+.kelas12{
+    display: flex;
+    justify-content: space-around;
+}
+
+.kelas13{
+    width: 250px;
+}
+
+.kelas14{
+    background-color: gray;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kelas15{
+    width: 70%;
+}
+
+.kelas16{
+    font-size: 36px;
+    font-weight: lighter;
+    opacity: 0.8;
+}
+
+.kelas17{
+    float: right;
+    font-size: 32px;
+    font-weight: bolder;
+}
+.kelas18{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 50%;
+    background-color: aqua;
+    border-radius: 10px;
+    height: 300px;
+}
+.kelas19{
+    display: flex;
+   flex-direction: column;
+   height: 100%;
+}
+.kelas21{
+    color: white;
+    font-size:  24px;
+}
+.kelas22{
+    color: white;
+    font-size: 16px;
+    padding-top: 5px;
+}
+.kelas23,
+.kelas20{
+    margin: 50px;
+}
+.kelas25{
+margin: 0px auto;
+}
+.kelas26{
+    padding-bottom: 0px;
+}
+.kelas27{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    background-color: #202e31;
+    color: white;
+}
+.kelas28{
+    width: 450px;
+    margin: 50px 50px 20px 200px;
+    height: max-content;
+}
+.kelas29{
+    display: flex;
+    justify-content: space-between; 
+}
+.kelas30{
+    margin: 50px 350px 20px 200px;
+    color: palegreen;
+}
+
+.kelas32{
+   padding-bottom: 20px;
+}
+p{
+    padding-bottom: 5px;
+}
+a {
+    text-decoration: none; 
+}
+html, body {
+    scroll-behavior: smooth; /* Mengaktifkan efek perpindahan yang halus */
+}
+.kelas33{
+font-size: larger;
+padding: 5px;
+}
+.kelas34{
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: start;  
+}
+.kelas35{
+    display: flex;
+    justify-content: end;
+    margin-top: 40px;
+}
+.instagram-container {
+    width: 50px; /* Atur lebar sesuai kebutuhan */
+    height: 50px; /* Atur tinggi sesuai kebutuhan */
+    overflow: hidden; /* Menghindari gambar melebihi batas container */
+    border: 1px solid #ddd; /* Atur gaya dan warna garis luar */
+  }
+  
+  .instagram-image {
+    width: 100%; /* Mengisi seluruh lebar container */
+    height: auto; /* Menyesuaikan tinggi proporsional */
+    display: block; /* Menghilangkan jarak bawah yang mungkin terbentuk */
+  }
